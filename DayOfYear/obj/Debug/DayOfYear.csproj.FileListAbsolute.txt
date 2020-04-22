@@ -1,0 +1,7 @@
+C:\Users\Anna\source\repos\DayOfYear\DayOfYear\bin\Debug\DayOfYear.exe.config
+C:\Users\Anna\source\repos\DayOfYear\DayOfYear\bin\Debug\DayOfYear.exe
+C:\Users\Anna\source\repos\DayOfYear\DayOfYear\bin\Debug\DayOfYear.pdb
+C:\Users\Anna\source\repos\DayOfYear\DayOfYear\obj\Debug\DayOfYear.csprojAssemblyReference.cache
+C:\Users\Anna\source\repos\DayOfYear\DayOfYear\obj\Debug\DayOfYear.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\DayOfYear\DayOfYear\obj\Debug\DayOfYear.exe
+C:\Users\Anna\source\repos\DayOfYear\DayOfYear\obj\Debug\DayOfYear.pdb
